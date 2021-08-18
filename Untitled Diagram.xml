@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T10:05:03.948Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.8031 SLBChan/35" etag="0P5HbsQlvusL3QCYR-6X" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T10:08:22.699Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.8031 SLBChan/35" etag="b_3Lk13i10Pgp3tqEr_f" version="14.9.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="782" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
             <mxPoint x="490" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_moEOf-zSK3_OTityDH-76" value="执行登录限制模块" style="html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="D_moEOf-zSK3_OTityDH-76" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;通知CP&lt;/span&gt;登录成功" style="html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="1670" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D_moEOf-zSK3_OTityDH-77" value="是" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D_moEOf-zSK3_OTityDH-73" target="D_moEOf-zSK3_OTityDH-76" edge="1">
@@ -338,7 +338,7 @@
             <mxPoint x="570" y="2260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G8twjsh2Fq2hi2uapH-I-26" value="认证成功，&lt;font color=&quot;#ff0000&quot;&gt;执行登录上报，轮询上报时长&lt;/font&gt;，进入游戏，通知CP" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.067;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D_moEOf-zSK3_OTityDH-76" target="G8twjsh2Fq2hi2uapH-I-25">
+        <mxCell id="G8twjsh2Fq2hi2uapH-I-26" value="认证成功，&lt;font color=&quot;#ff0000&quot;&gt;执行登录上报，轮询上报时长&lt;/font&gt;，进入游戏" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.067;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D_moEOf-zSK3_OTityDH-76" target="G8twjsh2Fq2hi2uapH-I-25">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="330" y="1810" as="sourcePoint" />
             <mxPoint x="410" y="1810" as="targetPoint" />
